@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wTRSTx7bVIg=",
+  "dgSpecHash": "utQ4drv4A+E=",
   "success": true,
-  "projectFilePath": "/Users/ilknurhancer/Desktop/SporBackend/SporBackend.csproj",
+  "projectFilePath": "/Users/ilknurhancer/Desktop/SportAppBackend/SporBackend.csproj",
   "expectedPackageFiles": [
     "/Users/ilknurhancer/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/ilknurhancer/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/9.0.8/microsoft.aspnetcore.authentication.jwtbearer.9.0.8.nupkg.sha512",

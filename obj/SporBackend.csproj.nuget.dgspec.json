@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ilknurhancer/Desktop/SporBackend/SporBackend.csproj": {}
+    "/Users/ilknurhancer/Desktop/SportAppBackend/SporBackend.csproj": {}
   },
   "projects": {
-    "/Users/ilknurhancer/Desktop/SporBackend/SporBackend.csproj": {
+    "/Users/ilknurhancer/Desktop/SportAppBackend/SporBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ilknurhancer/Desktop/SporBackend/SporBackend.csproj",
+        "projectUniqueName": "/Users/ilknurhancer/Desktop/SportAppBackend/SporBackend.csproj",
         "projectName": "SporBackend",
-        "projectPath": "/Users/ilknurhancer/Desktop/SporBackend/SporBackend.csproj",
+        "projectPath": "/Users/ilknurhancer/Desktop/SportAppBackend/SporBackend.csproj",
         "packagesPath": "/Users/ilknurhancer/.nuget/packages/",
-        "outputPath": "/Users/ilknurhancer/Desktop/SporBackend/obj/",
+        "outputPath": "/Users/ilknurhancer/Desktop/SportAppBackend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ilknurhancer/.nuget/NuGet/NuGet.Config"
