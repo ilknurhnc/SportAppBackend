@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SporBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef55da2a711c0e2cb6ff032160e4fcc06a8f6c09")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8354d026718194d567a927e6818208467285a0d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("SporBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SporBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
